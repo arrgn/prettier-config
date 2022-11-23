@@ -4,6 +4,10 @@
   "description": "My personal Prettier config",
   "main": "index.json",
   "repository": "git@github.com:arrgn/prettier-config.git",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
   "author": "Ilya Koregin <cemas045@vk.com>",
   "license": "MIT"
 }
